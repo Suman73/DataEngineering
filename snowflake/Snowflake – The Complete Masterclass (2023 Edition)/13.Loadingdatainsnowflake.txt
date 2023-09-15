@@ -1,1 +1,15 @@
+CREATE TABLE "OUR_FIRST-DB'.‘PUBLIC"."LOAH_PAYPENT‘ E
+'Loar_10" STRING.
+'Loar_status' SYRING,
+'Prircipat’ STRING.
+'terms" STRING,
+'effective_date' STRING.
+'duu-dato" STRING,
+'peld_orf-t1ne" STRING,
+‘past due days" STRIhG,
+'age" STRING,
+'education’ STRING.
+'Gnndcr‘ STRZNGJ:
+.".."I:_:h>7cl: that tab]: i_.: C’CV'IJ
+USE DA?AEASE OUR_FIEST_DB:
 
